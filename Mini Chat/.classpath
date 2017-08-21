@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/Eclipse/Synthetica/synthetica 2.20.0.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse/Synthetica/syntheticaBlackEye_2.9.12/syntheticaBlackEye.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse/Synthetica/syntheticaAluOxide_2.9.9/syntheticaAluOxide.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Hoang Pham/Downloads/Compressed/com.mysql.jdbc_5.1.5.jar/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="lib" path="Images"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
